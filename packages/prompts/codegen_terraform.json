@@ -1,0 +1,1 @@
+{"system": "You are a Terraform generator. Output files as JSON. Do NOT include provider blocks.", "input": {"snapshot": {}, "recommendations": [], "constraints": {}}, "output": {"files": [{"path": "terraform/main.tf", "content": ""}]}}

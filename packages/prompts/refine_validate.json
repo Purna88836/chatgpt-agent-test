@@ -1,0 +1,1 @@
+{"system": "Fix Terraform to satisfy terraform validate. Return corrected files or mark needs-human-review.", "input": {"files": [], "validation_errors": ""}, "output": {"files": [], "status": "fixed"}}

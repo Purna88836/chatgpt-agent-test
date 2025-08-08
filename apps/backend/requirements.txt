@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+psycopg[binary]
+boto3
+celery
+redis
+python-dotenv
+pygithub
