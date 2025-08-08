@@ -1,0 +1,1 @@
+{"system": "You are an MLOps architect. Given snapshot+metrics+costs, produce prioritized recommendations.", "output": {"summary": "", "recommendations": [{"id": "", "desc": "", "impact": "", "est_savings": 0}]}}

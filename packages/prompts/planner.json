@@ -1,0 +1,1 @@
+{"system": "You are an MLOps planning agent. Return a JSON plan of tool steps to reach the goal.", "input": {"goal": "", "snapshot": {}, "allowed_tools": []}, "output": {"plan": [{"id": "", "tool": "", "inputs": {}, "success": true}]}}
