@@ -1,0 +1,11 @@
+# Define code ownership for different directories
+# Require reviews from owners for changes in these directories
+
+# Data processing scripts
+data-processing/ @data-team
+
+# Model training scripts
+model-training/ @ml-team
+
+# Deployment scripts
+deployment/ @devops-team
